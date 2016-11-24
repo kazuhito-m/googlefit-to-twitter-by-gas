@@ -1,0 +1,22 @@
+{
+  "name": "googlefit-to-twitter-by-gas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazuhito-m/googlefit-to-twitter-by-gas.git"
+  },
+  "author": "kazuhito_m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazuhito-m/googlefit-to-twitter-by-gas/issues"
+  },
+  "homepage": "https://github.com/kazuhito-m/googlefit-to-twitter-by-gas#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
