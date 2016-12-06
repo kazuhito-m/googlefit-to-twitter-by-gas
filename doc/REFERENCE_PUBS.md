@@ -14,6 +14,10 @@
 - [GoogleのAPIManager](https://console.developers.google.com/apis)
 - [Authorization: Bearer ヘッダについて](http://qiita.com/uasi/items/cfb60588daa18c2ec6f5)
 
+## IFTTT
+
+- [トリガーのMakeをプログラムから呼び出す例](https://github.com/kamomc/hp_trigger/blob/master/hp_trigger.rb)
+
 ## Other
 
 - [JSONのフォーマッタ](http://jsonviewer.stack.hu/)
